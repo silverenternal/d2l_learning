@@ -1,0 +1,33 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Build output
+*.so
+*.dll
+*.dylib
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Data files
+*.csv
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Environment
+.env
+.cargo/config.toml
