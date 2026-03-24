@@ -23,10 +23,6 @@ __MACOSX/
 # Data files
 *.csv
 *.zip
-*.png
-*.jpg
-*.jpeg
-*.gif
 
 # Environment
 .env
